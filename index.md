@@ -38,5 +38,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 My assignment
 `READ.md`
 `mod2_solution`
-`style.css`
+`css`
 Having trouble with Pages? Check out our [documentation](https://github.com/Fizzazd/Coursera-test.git) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
